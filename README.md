@@ -1,0 +1,2 @@
+Django is a web framework for Python that can build full web application with sqllite databases. Please explore the folders to checkout some of the apps.
+<img width="1792" alt="web_demo" src="https://user-images.githubusercontent.com/60893597/135022450-91e5a64e-e282-4b43-b6bc-e962d9cf68a4.png">
